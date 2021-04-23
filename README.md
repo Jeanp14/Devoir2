@@ -21,12 +21,7 @@
 
 #Q7
 
-Bucket 0 |     |
------ | ---- | ----
- 4    |  20  |  40
- 12   |  24  |
- 16   |  28  |
-
+![image](https://user-images.githubusercontent.com/43187263/115806277-778b7100-a3b4-11eb-8e19-885182cc8df3.png)
 Bucket 1
 ----- | -----
   13  |
