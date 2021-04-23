@@ -20,6 +20,7 @@
 
 
 #Q7
+
 Bucket 0
 ----- | ---- | ----
  4    |  20  |  40
@@ -44,3 +45,9 @@ Bucket 3
   |    
   |    
   |   
+
+name   | experience
+------------ | -------------
+andrew | 3
+august | 1
+hayden | 2
