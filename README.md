@@ -7,9 +7,13 @@
 #Q2
 a) 
 NIN -> eName
+
 NIN/contractNo -> heuresPerWeek
+
 contratNo -> hotelNo
+
 hotelNo -> hotelLocation
+
 
 #Q3
 
